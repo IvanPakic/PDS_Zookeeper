@@ -1,0 +1,1 @@
+java -cp PDS-Zookeeper2-1.0.jar;.;lib/* rs.raf.pds.zookeeper.TxCoordinator localhost:2181 3
